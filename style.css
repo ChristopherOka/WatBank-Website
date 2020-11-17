@@ -1,0 +1,150 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    }
+
+button{
+    background-color:#FCB514;
+    cursor: pointer;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.settingtable {
+  display: inline;
+  float: left;
+  float: top;
+  margin-left: 30%;
+  margin-top: 10%;
+  font-size: 1.3em;
+  border-left: thin solid black;
+  padding-right: 3%;
+}
+
+#jubutton{
+    display:block;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#dates{
+    line-height: 50%;
+    font-size: 100%;
+    font-style: italic;
+}
+
+#money{
+    line-height: 50%;
+    font-size: 150%;
+}
+
+#transactions{
+font-size: 200%;
+line-height: 0%;
+padding-bottom: 10%;
+padding-top: 5%
+}
+
+#watbank{
+    font-size: 50px;
+}
+
+#goose{
+  display:inline;
+  border-radius: 25px;
+  border: 2px solid black;
+  padding: 20px; 
+  width: 60%;
+  height: 50%; 
+  margin: 2%;
+}
+
+#gooseprofile {
+  display:inline;
+  margin-top: 42%;
+  float: top;
+  float: right;
+  width: 40%;
+  height: 5%;
+}
+
+#topthing{
+    background-color:#FCB514;
+color:black;
+}
+
+#transaction{
+    text-align: center;
+}
+
+#navbarNavAltMarkup {
+    font-size: 200%;
+}
+
+#form-format {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#waterloo-title {
+  position: relative;
+  top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 30%;
+}
+
+.watcard-center {
+    margin-left: 15%;
+    margin-top: 2%;
+}
+
+.watcardpic{
+    position:relative;
+}
+
+.mealplan{
+    font-size:200%;
+    position:absolute;
+left: 43%;
+top: 12%;
+}
+
+.flex{
+    font-size:200%;
+    position: absolute;
+    left:43%;
+    top:20%;
+}
+
+.recent{
+    position:absolute;
+margin-right: 4%;
+background-color: white;
+  width: 30%;
+  height: 65%;
+  border: 5px solid #FCB514;
+  padding: 2%;
+  top:0%;
+  left: 65%;
+  margin-top: 2%;
+ 
+}
+ul.list-info li { margin-bottom: 0.5em; }
+
+#forgot-password {
+  left:-20px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
