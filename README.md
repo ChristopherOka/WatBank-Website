@@ -3,7 +3,7 @@
 WatBank is a central hub for all University of Waterloo student financial needs!
 <br><br>
 This website was created and submitted as part of the <b>HackAttack</b> hackathon
-<br>
+<br><br>
 Proposed Features: 
 <ul>
 <li>View student card (WatCard) balances</li>
