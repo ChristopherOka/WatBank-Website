@@ -1,0 +1,1 @@
+![WatBank Homepage](/Images/WatBank_homepage.jpg)
