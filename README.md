@@ -1,7 +1,7 @@
 <b>WatBank Website Created by Christopher Oka, Julia Ju, Tong Yin Han (2020)</b>
 <br><br>
 WatBank is a central hub for all University of Waterloo student financial needs!
-<br>
+<br><br>
 This website was created and submitted as part of the <b>HackAttack</b> hackathon
 <br>
 Proposed Features: 
