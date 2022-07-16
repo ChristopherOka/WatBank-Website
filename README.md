@@ -2,7 +2,7 @@
 <br>
 This website was created and submitted as part of the <b>HackAttack</b> hackathon.
 <br>
-Intended Features: 
+Proposed Features: 
 <br>
 <ul>
 <li>- Student card (WatCard) financial tracking</li>
